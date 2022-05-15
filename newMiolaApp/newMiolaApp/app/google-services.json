@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "186075512336",
+    "project_id": "new-miola",
+    "storage_bucket": "new-miola.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:186075512336:android:fafe5654cac1cdc7ac9495",
+        "android_client_info": {
+          "package_name": "com.example.newmiolaapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "186075512336-596ru3m1srrmr05nuonutbk06og7g5r0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhBxGbWuzeyToy9Ubn8bRZMFr4rOUvvIc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "186075512336-596ru3m1srrmr05nuonutbk06og7g5r0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
